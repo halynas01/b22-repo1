@@ -1,1 +1,5 @@
 B22 Learning Git
+
+Yay we made first commit
+Commit is almost like taking
+a picture of the changes
